@@ -52,11 +52,11 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=robloxenjoyer124&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=osfv&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=robloxenjoyer124&style=for-the-badge&color=6e40c9&label=VIEWS&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=osfv&style=for-the-badge&color=6e40c9&label=VIEWS&abbreviated=true)
 
 </div>
 
