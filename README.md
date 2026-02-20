@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://lanyard.cnrad.dev/api/1024734174780862487">
-    <img src="https://lanyard.cnrad.dev/api/1024734174780862487?theme=dark&bg=0d0d0d&borderRadius=12px&idleMessage=probably+coding" />
+    <img src="https://lanyard.cnrad.dev/api/1024734174780862487?theme=dark&bg=0d0d0d&borderRadius=12px&idleMessage=probably+coding" /> 
   </a>
 </div>
 
