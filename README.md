@@ -12,7 +12,7 @@
 
 <br/>
 
-i run **[Haunt Enterprises](https://github.com/hauntent)**.
+i run **[Haunt Enterprises](https://github.com/hauntenterprises)**.
 
 <br/>
 
