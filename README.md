@@ -6,7 +6,7 @@ hey, i'm osfv.
 
 i make cool tools and stuff..
 
-i run [veld](https://github.com/VeldLLC).  
+i run [tersa](https://tersa.tech).  
 i also contribute to [cve lite cli](https://github.com/OWASP/cve-lite-cli).
 
 most notable thing here is probably [bravedebloater](https://github.com/osfv/BraveDebloater).
