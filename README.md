@@ -2,14 +2,14 @@
   <img src="./assets/girl.gif" width="600">
 </p>
 
-hey, i'm osfv.
+hey, i'm osfv
 
-i make cool tools and stuff..
+i make cool tools and stuff
 
-i run [tersa](https://tersa.tech).  
-i also contribute to [cve lite cli](https://github.com/OWASP/cve-lite-cli).
+i run [tersa](https://tersa.tech)
+i also contribute to [cve lite cli](https://github.com/OWASP/cve-lite-cli)
 
-most notable thing here is probably [bravedebloater](https://github.com/osfv/BraveDebloater).
+most notable thing here is probably [bravedebloater](https://github.com/osfv/BraveDebloater)
 
 ---
 
